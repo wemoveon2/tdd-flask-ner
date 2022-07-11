@@ -1,0 +1,5 @@
+flask-ner/*
+__pycache__
+*.log
+*.egg-info/*
+.pytest_cache/*
